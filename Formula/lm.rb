@@ -1,8 +1,8 @@
 class Lm < Formula
   desc "Developer-aware storage analysis & cleanup for macOS (terminal-first)"
   homepage "https://github.com/bagaspra16/lean-mac"
-  url "https://github.com/bagaspra16/lean-mac/archive/refs/tags/v0.5.2.tar.gz"
-  sha256 "1816934afc1864c485ee5a7e87f1fb4e499c40a72b17cb433f727a9b9d151fb7"
+  url "https://github.com/bagaspra16/lean-mac/archive/refs/tags/v0.5.3.tar.gz"
+  sha256 "72ca6cca2e77bac213b3e8cad6cd886f8401d0246006faf70916819cd794aa70"
   license "MIT"
   head "https://github.com/bagaspra16/lean-mac.git", branch: "main"
 
